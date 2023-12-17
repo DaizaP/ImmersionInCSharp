@@ -1,4 +1,4 @@
-﻿namespace DZ
+﻿namespace DZ.codeFolder
 {
     public class Calc
     {
@@ -6,7 +6,7 @@
         {
             int a;
             int b;
-            
+
             if (example.Length > 3 || example.Length < 3)
             {
                 throw new ArgumentException("Некорректное количество аргументов. Допускаются три аргумента: Число > арифметический знак > число");

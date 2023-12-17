@@ -1,4 +1,4 @@
-﻿using static DZ.Calc;
+﻿using static DZ.codeFolder.Calc;
 
 internal class Program
 {
