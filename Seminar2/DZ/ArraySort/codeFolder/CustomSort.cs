@@ -1,7 +1,7 @@
 ﻿
 namespace ArraySort.codeFolder
 {
-    public static class CustomSort
+    public class CustomSort
     {
         public static void Sort2DArray(int[,] array)
         {
