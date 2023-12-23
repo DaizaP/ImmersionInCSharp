@@ -3,7 +3,7 @@ namespace ArraySort.codeFolder
 {
     public static class CustomSort
     {
-        public static void CSort(int[,] array)
+        public static void Sort2DArray(int[,] array)
         {
             int counter = 0;
 
